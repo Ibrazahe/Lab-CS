@@ -1,5 +1,5 @@
 {'src': '//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Queen_logo.svg/180px-Queen_logo.svg.png', 'alt': 'Queen logo.svg'}
-{'src': '//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queen_%E2%80%93_montagem_%E2%80%93_new.png/285px-Queen_%E2%80%93_montagem_%E2%80%93_new.png', 'alt': 'Queen – montagem – new.png'}
+{'src': '//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queen_%E2%80%93_montagem_%E2%80%93_new.png/285px-Queen_%E2%80%93_montagem_%E2%80%93_new.png', 'alt': 'Queen â€“ montagem â€“ new.png'}
 {'src': '//upload.wikimedia.org/wikipedia/commons/thumb/9/93/John_Deacon_%281977%29.jpg/150px-John_Deacon_%281977%29.jpg', 'alt': ''}
 {'src': '//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Roy_Thomas_Baker_by_Tere_Baker_crop_2.jpg/140px-Roy_Thomas_Baker_by_Tere_Baker_crop_2.jpg', 'alt': ''}
 {'src': '//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Queen_2005_1010016.JPG/220px-Queen_2005_1010016.JPG', 'alt': ''}
